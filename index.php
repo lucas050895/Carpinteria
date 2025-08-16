@@ -73,6 +73,16 @@
         $conexion->close();
     ?>
 </table>
+
+
+<footer>
+    <h3>Creado por 
+        <a href="http://lucasconde.ddns.net/LucasConde">Lucas Conde</a>
+    </h3>
+    <span>
+        Derechos Reservados © 2025
+    </span>
+</footer>
     
 </body>
 </html>
